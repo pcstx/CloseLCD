@@ -1,0 +1,4 @@
+D:\Data\Project\CloseLCD\CloseLCD\bin\Debug\CloseLCD.exe
+D:\Data\Project\CloseLCD\CloseLCD\bin\Debug\CloseLCD.pdb
+D:\Data\Project\CloseLCD\CloseLCD\obj\Debug\CloseLCD.exe
+D:\Data\Project\CloseLCD\CloseLCD\obj\Debug\CloseLCD.pdb
